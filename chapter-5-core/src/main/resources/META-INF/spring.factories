@@ -1,0 +1,6 @@
+org.springframework.boot.SpringApplicationRunListener=com.chanpller.chapter5core.listener.MySpringApplicationRunListener
+org.springframework.context.ApplicationContextInitializer=com.chanpller.chapter5core.listener.MyApplicationContextInitializer
+org.springframework.context.ApplicationListener=com.chanpller.chapter5core.listener.MyApplicationListener
+org.springframework.boot.ApplicationRunner=com.chanpller.chapter5core.listener.MyApplicationRunner
+org.springframework.boot.bootstrap.BootstrapRegistryInitializer=com.chanpller.chapter5core.listener.MyBootstrapRegistryInitializer
+org.springframework.boot.CommandLineRunner=com.chanpller.chapter5core.listener.MyCommandLineRunner
