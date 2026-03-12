@@ -1,4 +1,4 @@
-package com.chanpller;
+package com.chanpller.chapter6nosql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

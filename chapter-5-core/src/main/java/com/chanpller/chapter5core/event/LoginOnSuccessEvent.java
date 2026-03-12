@@ -1,6 +1,6 @@
-package com.chanpller.event;
+package com.chanpller.chapter5core.event;
 
-import com.chanpller.entity.User;
+import com.chanpller.chapter5core.entity.User;
 import org.springframework.context.ApplicationEvent;
 
 public class LoginOnSuccessEvent extends ApplicationEvent {

@@ -1,7 +1,7 @@
-package com.chanpller.controller;
+package com.chanpller.chapter5core.controller;
 
-import com.chanpller.entity.User;
-import com.chanpller.event.LoginOnSuccessEvent;
+import com.chanpller.chapter5core.entity.User;
+import com.chanpller.chapter5core.event.LoginOnSuccessEvent;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.web.bind.annotation.GetMapping;

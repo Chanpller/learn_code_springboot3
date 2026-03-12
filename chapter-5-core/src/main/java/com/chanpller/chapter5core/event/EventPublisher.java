@@ -1,4 +1,4 @@
-package com.chanpller.event;
+package com.chanpller.chapter5core.event;
 
 import org.springframework.context.ApplicationEvent;
 import org.springframework.context.ApplicationEventPublisher;

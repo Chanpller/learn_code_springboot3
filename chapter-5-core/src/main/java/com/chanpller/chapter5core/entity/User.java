@@ -1,11 +1,13 @@
 package com.chanpller.chapter5core.entity;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
-import org.springframework.stereotype.Component;
+import lombok.NoArgsConstructor;
 
-@Component
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class User {
     private String name;
-    private String email;
+    private String password;
 }

@@ -1,7 +1,7 @@
-package com.chanpller.service;
+package com.chanpller.chapter5core.service;
 
-import com.chanpller.entity.User;
-import com.chanpller.event.LoginOnSuccessEvent;
+import com.chanpller.chapter5core.entity.User;
+import com.chanpller.chapter5core.event.LoginOnSuccessEvent;
 import org.springframework.context.event.EventListener;
 import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Service;
