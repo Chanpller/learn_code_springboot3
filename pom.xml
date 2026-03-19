@@ -15,6 +15,8 @@
         <module>chapter-5-core</module>
         <module>chapter-6-nosql</module>
         <module>chapter-6-swager</module>
+        <module>chapter-6-actuator</module>
+        <module>chapter-6-security</module>
         <module>mytest-spring-boot-starter</module>
     </modules>
     <properties>
