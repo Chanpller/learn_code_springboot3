@@ -18,6 +18,7 @@
         <module>chapter-6-actuator</module>
         <module>chapter-6-security</module>
         <module>mytest-spring-boot-starter</module>
+        <module>test_graalvm</module>
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

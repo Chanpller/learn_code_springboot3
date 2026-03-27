@@ -5,6 +5,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class MyComponent {
     public int check(){
-        return 1;
+        return 0;
     }
 }
